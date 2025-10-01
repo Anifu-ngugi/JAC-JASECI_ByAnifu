@@ -7,7 +7,6 @@ def website_architype(type_of_website:str)->str by llm();
 
 
 
-
 with entry{
     arch= website_architype(type_of_website="a worship type"); 
     print(f"website: {arch}");
